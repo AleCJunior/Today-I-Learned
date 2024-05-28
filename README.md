@@ -8,7 +8,7 @@ DOING A TIL!
 
 > If you want a better usage example, access [this](https://github.com/jbranchaud/til/blob/master/README.md?plain=1#L19) one
 
-_1 TILs and counting..._
+_`2` TILs and counting..._
 
 ---
 
@@ -23,3 +23,7 @@ _1 TILs and counting..._
 - [Levenshtein Distance](CSharp/levenshtein-distance.md)
 
 ### SQLPlus
+
+### Git
+
+- [Git Basic commands](Git/Commands.md)
