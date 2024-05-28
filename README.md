@@ -6,6 +6,8 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. And the first (special) thing that i learned today is:
 DOING A TIL!
 
+> If you want a better usage example, access [this](https://github.com/jbranchaud/til/blob/master/README.md?plain=1#L19) one
+
 _1 TILs and counting..._
 
 ---
