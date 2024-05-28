@@ -35,10 +35,3 @@ git commit
 will launch this stage branch, as an snapshot!
 
 ---
-```
-
-```
-Believe 
-```
-
-```
