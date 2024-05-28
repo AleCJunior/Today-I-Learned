@@ -18,6 +18,6 @@ _1 TILs and counting..._
 
 ### C#
 
-- [Levenshtein Distance](C#/Levenshtein-Distance.md)
+- [Levenshtein Distance](CSharp/levenshtein-distance.md)
 
 ### SQLPlus
